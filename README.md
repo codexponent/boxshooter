@@ -4,7 +4,7 @@ Box Shooter is a game made from Unity3d. It's about a lonely ball trying to coll
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Download and Installation
 
